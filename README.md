@@ -57,7 +57,7 @@ Visit the live website: [AaSU STUDIO](https://aarinmahala.github.io/aasu-studio)
    start-server.bat
    ```
 
-5. Open your browser and go to 
+
 
 
 ## 📁 Project Structure
