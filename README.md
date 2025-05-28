@@ -1,4 +1,4 @@
-# AaSU STUDIO
+## AaSU STUDIO
 
 A professional photography and videography studio website showcasing creative work, services, and booking options.
 
